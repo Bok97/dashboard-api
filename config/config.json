@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "bok",
+    "password": "",
+    "database": "chartsummarydb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
